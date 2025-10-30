@@ -1,8 +1,4 @@
 # -Implementando-Infraestrutura-Automatizada-com-AWS-CloudFormation
-
-# ☁️ AWS CloudFormation — Infraestrutura como Código (IaC)
-### 📚 Resumo elaborado por Maria Eduarda Melo  
-
 ---
 
 ## 🌐 Introdução  
